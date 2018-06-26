@@ -1,0 +1,14 @@
+{
+  "solidity.soliumRules": {
+    "imports-on-top": 0,
+    "variable-declarations": 0,
+    "indentation": [
+      "error",
+      2
+    ],
+    "quotes": [
+      "error",
+      "single"
+    ]
+  }
+}

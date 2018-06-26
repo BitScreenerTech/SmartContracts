@@ -1,0 +1,20 @@
+{
+  "name": "bitx-contracts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Long Nguyen <tobernguyen@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^6.0.0",
+    "fast-csv": "^2.4.1",
+    "lodash": "^4.17.10",
+    "openzeppelin-solidity": "1.10.0",
+    "truffle-hdwallet-provider": "^0.0.5",
+    "web3": "^1.0.0-beta.34"
+  },
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.11.0"
+  }
+}
