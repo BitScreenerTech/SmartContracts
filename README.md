@@ -1,6 +1,4 @@
-BitScreener, one of the best real-time crypto-tracking platforms, has served more than 1,2 million traders and investors worldwide to track their investments since launch in 2017.
-
-It is now integrating crowdsourcing financial data and content ecosystem on blockchain through token BITX. BITX works as the payment method for financial traders and investors to buy advanced data services and the incentive method for the value contributors of the ecosystem. 
+BitScreener, one of the best real-time crypto-tracking platforms, has served more than 1,2 million traders and investors worldwide to track their investments since launch in 2017. It is now integrating crowdsourcing financial data and content ecosystem on blockchain through token BITX. BITX works as the payment method for financial traders and investors to buy advanced data services and the incentive method for the value contributors of the ecosystem. 
 
 BitScreener will be a financial data marketplace for financial professionals and engineers to monetize their investment knowledge. The full ecosystem aims to track and analyze 100,000+ stocks worldwide together with existing 2000+ cryptos in a single platform.
 
